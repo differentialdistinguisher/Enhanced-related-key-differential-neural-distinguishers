@@ -2,7 +2,7 @@
 
 
 
-## Basci 
+## Basic 
 The basic related-key differential neural distinguisher for SIMON and SIMECK
 ## Enhanced  
 The enhanced related-key differential neural distinguisher for SIMON and SIMECK
