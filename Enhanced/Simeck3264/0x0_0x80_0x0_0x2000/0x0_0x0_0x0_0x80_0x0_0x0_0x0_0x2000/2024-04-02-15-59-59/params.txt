@@ -1,0 +1,1 @@
+ep120_round15_depth5_group8_bs30000_lrgohr_d1128_d2128_ks133_dp5_filter64-64-64_reg1e-05_lr0.003-0.0001_vgc_lrepoch30_2024-04-02-15-59-59
